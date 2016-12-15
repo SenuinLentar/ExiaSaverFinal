@@ -1,0 +1,4 @@
+#ifndef _LANCEURSAUVEGARDE_H_INCLUDED
+#define _LANCEURSAUVEGARDE_H_INCLUDED
+int lanceurRandom();
+#endif
